@@ -5,7 +5,7 @@ import Edit from './edit';
 import Remove from './remove';
 import Widget from './widget';
 
-const url = ''; // 'http://localhost:7070';      //ВАЖНО
+const url = 'https://coursa-heroku.herokuapp.com'; // 'http://localhost:7070';      //ВАЖНО
 const mainContainer = document.querySelector('.container');
 const ticketsContainer = document.querySelector('.tickets-container');
 const addTicketButton = document.querySelector('.add-ticket-button');
